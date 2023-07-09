@@ -62,7 +62,7 @@ $desktop : 1200px;
 }
 
 
-@media (max-width: $mobile) {
+@media (max-width: $mobile)  and all {
     .container {
         background-color: $color-1;
     }
