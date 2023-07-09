@@ -15,6 +15,10 @@
   background-color: #fff;
 }
 
+.text {
+  font-weight: bold;
+}
+
 #size {
   position: absolute;
   top: 60%;
